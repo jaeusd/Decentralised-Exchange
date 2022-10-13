@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bdc05fdc2c1e83fdfb81cf87a0c56aa5",
+    "revision": "c7070dcc58f88f3ebfc9ae70987dc734",
     "url": "/Decentralised-Exchange/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Decentralised-Exchange/static/css/2.5dcc52c6.chunk.css"
   },
   {
-    "revision": "be42dcb5386b3df7c373",
+    "revision": "dcaece5dc7c01a452411",
     "url": "/Decentralised-Exchange/static/css/main.9c453fb2.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Decentralised-Exchange/static/js/2.de5bd28e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be42dcb5386b3df7c373",
-    "url": "/Decentralised-Exchange/static/js/main.fbe4572a.chunk.js"
+    "revision": "dcaece5dc7c01a452411",
+    "url": "/Decentralised-Exchange/static/js/main.8cd4f1de.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/Decentralised-Exchange/static/js/main.fbe4572a.chunk.js.LICENSE.txt"
+    "url": "/Decentralised-Exchange/static/js/main.8cd4f1de.chunk.js.LICENSE.txt"
   },
   {
     "revision": "8be0540ad9d583b87c7e",
